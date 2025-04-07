@@ -1,4 +1,4 @@
-<b>Bem-vindo ao Sistema de Cadastro 📚</b> <br> <br>
+<b>Bem-vindo ao Sistema de Cadastro 📁</b> <br> <br>
 O software é destinado para agências a fim de facilitar o gerenciamento das informações dos colaboradores, proporcionando uma plataforma organizada e eficiente para armazenar dados essenciais como nome, cargo, contato, data de contratação e documentos. Com uma interface simples e intuitiva, o software contribui para a otimização de processos internos, minimizando erros e agilizando a comunicação entre a gestão e os funcionários da agência.
 
 ## ℹ️ Sobre o Projeto
