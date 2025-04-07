@@ -6,7 +6,7 @@ O Sistema de Cadastro é um software feito a patir do paradigma da Programação
 <ul>
   <li>Linguagens: Python;</li>
   <li>Banco de Dados: sqlite3;</li>
-  <li>bibliotecas/Frameworks: tkinter, PIL, tkcalendar, datetime, sqlite3, shutil, os;</li>
+  <li>Biblioteca/Frameworks: tkinter, PIL, tkcalendar, datetime, sqlite3, shutil, os;</li>
   <li>Adicionais: POO.</li>
 </ul>
 
